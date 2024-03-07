@@ -1,4 +1,4 @@
-# Image upscaling library 
+# Image upscaling c# library 
 
 ## Goals:
 
