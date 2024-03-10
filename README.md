@@ -11,4 +11,4 @@
 ### Nice to have
 1. Histogram Equalization 
 1. Contrast Enhancement
-1. AI processing (TensorFlow.Net)
+1. AI processing ( TensorFlow.Net)
